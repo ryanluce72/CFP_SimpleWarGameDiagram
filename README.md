@@ -1,0 +1,2 @@
+CFP_SimpleWarGameDiagram
+========================
